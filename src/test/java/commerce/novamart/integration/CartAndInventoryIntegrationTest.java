@@ -7,7 +7,6 @@ import commerce.novamart.catalog.entity.Category;
 import commerce.novamart.catalog.entity.Product;
 import commerce.novamart.catalog.repository.ProductRepository;
 import commerce.novamart.common.exception.BadRequestException;
-import commerce.novamart.support.AuthTestHelper;
 import commerce.novamart.support.IntegrationTestBase;
 import commerce.novamart.user.entity.User;
 import org.junit.jupiter.api.Test;
