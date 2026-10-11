@@ -1,0 +1,82 @@
+[
+ {
+  "slug": "apple",
+  "name": "Apple",
+  "logo": null,
+  "description": "Premium smartphones, laptops and wearables engineered for a seamless ecosystem.",
+  "featured": true
+ },
+ {
+  "slug": "samsung",
+  "name": "Samsung",
+  "logo": null,
+  "description": "Innovative Galaxy devices, displays and smart home electronics.",
+  "featured": true
+ },
+ {
+  "slug": "sony",
+  "name": "Sony",
+  "logo": null,
+  "description": "Industry-leading audio, imaging and gaming technology.",
+  "featured": true
+ },
+ {
+  "slug": "jbl",
+  "name": "JBL",
+  "logo": null,
+  "description": "Bold sound for every lifestyle, from speakers to true wireless earbuds.",
+  "featured": true
+ },
+ {
+  "slug": "lenovo",
+  "name": "Lenovo",
+  "logo": null,
+  "description": "Reliable laptops and workstations for work, study and creativity.",
+  "featured": true
+ },
+ {
+  "slug": "dell",
+  "name": "Dell",
+  "logo": null,
+  "description": "Performance-driven computers and monitors built to last.",
+  "featured": true
+ },
+ {
+  "slug": "hp",
+  "name": "HP",
+  "logo": null,
+  "description": "Versatile computing solutions for home and business.",
+  "featured": true
+ },
+ {
+  "slug": "asus",
+  "name": "ASUS",
+  "logo": null,
+  "description": "High-performance gaming laptops, motherboards and peripherals.",
+  "featured": true
+ },
+ {
+  "slug": "anker",
+  "name": "Anker",
+  "logo": null,
+  "description": "Smart charging and power accessories for everyday tech."
+ },
+ {
+  "slug": "logitech",
+  "name": "Logitech",
+  "logo": null,
+  "description": "Precision peripherals for gaming, work and creativity."
+ },
+ {
+  "slug": "dji",
+  "name": "DJI",
+  "logo": null,
+  "description": "Aerial imaging and gimbal stabilization technology."
+ },
+ {
+  "slug": "garmin",
+  "name": "Garmin",
+  "logo": null,
+  "description": "GPS-powered wearables for fitness and outdoor adventure."
+ }
+]

@@ -1,0 +1,80 @@
+[
+ {
+  "slug": "gaming-setup",
+  "title": "Gaming Setup",
+  "description": "Everything you need to build a battlestation that wins.",
+  "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&q=80&w=900&h=650",
+  "productSlugs": [
+   "rog-blaze-17-gaming-laptop",
+   "nitropad-mechanical-keyboard",
+   "precisionx-gaming-mouse",
+   "nebula-27-gaming-monitor"
+  ]
+ },
+ {
+  "slug": "student-essentials",
+  "title": "Student Essentials",
+  "description": "Affordable tech to get through exams and projects.",
+  "image": "https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&q=80&w=900&h=650",
+  "productSlugs": [
+   "soundwave-pro-wireless-earbuds",
+   "basspulse-portable-speaker",
+   "motioncam-gimbal-stabilizer",
+   "homehub-smart-display",
+   "guardcam-outdoor-security-camera",
+   "glowstrip-ambient-led-kit"
+  ]
+ },
+ {
+  "slug": "work-from-home",
+  "title": "Work From Home",
+  "description": "Upgrade your home office for maximum productivity.",
+  "image": "https://images.unsplash.com/photo-1493934558415-9d19f0b2b4d2?auto=format&fit=crop&q=80&w=900&h=650",
+  "productSlugs": [
+   "voltbook-air-14-laptop",
+   "thinkforge-x1-laptop",
+   "xps-zenith-16-laptop",
+   "crystalview-4k-webcam",
+   "tabletpro-12-slate"
+  ]
+ },
+ {
+  "slug": "creator-gear",
+  "title": "Creator Gear",
+  "description": "Cameras, gimbals and displays for content creators.",
+  "image": "https://images.unsplash.com/photo-1764664035133-0d2ca12016dd?auto=format&fit=crop&q=80&w=900&h=650",
+  "productSlugs": [
+   "voltbook-air-14-laptop",
+   "xps-zenith-16-laptop",
+   "skyview-4k-drone",
+   "motioncam-gimbal-stabilizer",
+   "tabletpro-12-slate"
+  ]
+ },
+ {
+  "slug": "travel-tech",
+  "title": "Travel Tech",
+  "description": "Compact essentials that keep you powered on the road.",
+  "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&q=80&w=900&h=650",
+  "productSlugs": [
+   "powercell-20k-power-bank",
+   "tricharge-3-in-1-wireless-charger",
+   "armorshell-protective-case",
+   "flexarm-laptop-stand",
+   "crystalview-4k-webcam"
+  ]
+ },
+ {
+  "slug": "smart-home-starter",
+  "title": "Smart Home Starter Kit",
+  "description": "Turn your house into a connected smart home.",
+  "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=900&h=650",
+  "productSlugs": [
+   "homehub-smart-display",
+   "guardcam-outdoor-security-camera",
+   "glowstrip-ambient-led-kit",
+   "streamcast-portable-projector",
+   "echodot-smart-speaker-mini"
+  ]
+ }
+]

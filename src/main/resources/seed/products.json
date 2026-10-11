@@ -1,0 +1,2098 @@
+[
+ {
+  "slug": "aurora-pro-15-smartphone",
+  "sku": "VX-P-001",
+  "name": "Aurora Pro 15 Smartphone",
+  "images": [
+   "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 1099,
+  "compareAtPrice": 1299,
+  "currency": "USD",
+  "stock": 34,
+  "badges": [
+   "new",
+   "sale",
+   "bestseller"
+  ],
+  "shortDescription": "Titanium frame, 6.7\" ProMotion display and pro-grade triple camera.",
+  "description": "The Aurora Pro 15 pairs a durable titanium frame with a 6.7-inch ProMotion display for buttery-smooth scrolling. Its triple-camera system captures stunning detail in any light, while the all-day battery keeps you moving.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "graphite",
+      "label": "Graphite",
+      "value": "Graphite",
+      "swatch": "#3f3f46",
+      "inStock": true
+     },
+     {
+      "id": "silver",
+      "label": "Silver",
+      "value": "Silver",
+      "swatch": "#d4d4d8",
+      "inStock": true
+     },
+     {
+      "id": "sunset-gold",
+      "label": "Sunset Gold",
+      "value": "Sunset Gold",
+      "swatch": "#d4a373",
+      "inStock": true
+     }
+    ]
+   },
+   {
+    "id": "storage",
+    "name": "Storage",
+    "options": [
+     {
+      "id": "128GB",
+      "label": "128GB",
+      "value": "128GB",
+      "priceDelta": 0,
+      "inStock": true
+     },
+     {
+      "id": "256GB",
+      "label": "256GB",
+      "value": "256GB",
+      "priceDelta": 100,
+      "inStock": true
+     },
+     {
+      "id": "512GB",
+      "label": "512GB",
+      "value": "512GB",
+      "priceDelta": 200,
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "6.7\" OLED ProMotion 120Hz"
+     },
+     {
+      "label": "Resolution",
+      "value": "2796 x 1290"
+     }
+    ]
+   },
+   {
+    "title": "Performance",
+    "specs": [
+     {
+      "label": "Chipset",
+      "value": "A18 Bionic"
+     },
+     {
+      "label": "RAM",
+      "value": "8GB"
+     }
+    ]
+   },
+   {
+    "title": "Camera",
+    "specs": [
+     {
+      "label": "Rear",
+      "value": "48MP + 12MP + 12MP"
+     },
+     {
+      "label": "Front",
+      "value": "12MP"
+     }
+    ]
+   },
+   {
+    "title": "Battery",
+    "specs": [
+     {
+      "label": "Capacity",
+      "value": "4400mAh"
+     },
+     {
+      "label": "Charging",
+      "value": "30W wired, 20W wireless"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "smartphone",
+   "flagship",
+   "5g"
+  ],
+  "featured": true,
+  "bestSeller": true,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#3f3f46",
+   "#d4d4d8",
+   "#d4a373"
+  ],
+  "brandSlug": "apple",
+  "categorySlug": "phones",
+  "createdDaysAgo": 5,
+  "seedRating": 4.8,
+  "seedReviewCount": 2140
+ },
+ {
+  "slug": "galaxy-nova-x-smartphone",
+  "sku": "VX-P-002",
+  "name": "Galaxy Nova X Smartphone",
+  "images": [
+   "https://images.unsplash.com/photo-1592890288564-76628a30a657?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1583291023438-41cef6453b1f?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1480694313141-fce5e697ee25?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1592890288564-76628a30a657?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 949,
+  "compareAtPrice": 1099,
+  "currency": "USD",
+  "stock": 41,
+  "badges": [
+   "sale",
+   "free-shipping"
+  ],
+  "shortDescription": "120Hz AMOLED display with a 200MP main sensor and S-Pen support.",
+  "description": "Galaxy Nova X brings a vivid 120Hz AMOLED display, a 200MP main camera and all-day battery life together in a sleek aluminum body, with full S-Pen support for note-taking on the go.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "phantom-black",
+      "label": "Phantom Black",
+      "value": "Phantom Black",
+      "swatch": "#18181b",
+      "inStock": true
+     },
+     {
+      "id": "cream",
+      "label": "Cream",
+      "value": "Cream",
+      "swatch": "#f5f0e6",
+      "inStock": true
+     },
+     {
+      "id": "violet",
+      "label": "Violet",
+      "value": "Violet",
+      "swatch": "#8b7bb8",
+      "inStock": true
+     }
+    ]
+   },
+   {
+    "id": "storage",
+    "name": "Storage",
+    "options": [
+     {
+      "id": "256GB",
+      "label": "256GB",
+      "value": "256GB",
+      "priceDelta": 0,
+      "inStock": true
+     },
+     {
+      "id": "512GB",
+      "label": "512GB",
+      "value": "512GB",
+      "priceDelta": 100,
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "6.8\" Dynamic AMOLED 2X"
+     },
+     {
+      "label": "Refresh",
+      "value": "120Hz adaptive"
+     }
+    ]
+   },
+   {
+    "title": "Performance",
+    "specs": [
+     {
+      "label": "Chipset",
+      "value": "Snapdragon 8 Gen 4"
+     },
+     {
+      "label": "RAM",
+      "value": "12GB"
+     }
+    ]
+   },
+   {
+    "title": "Camera",
+    "specs": [
+     {
+      "label": "Rear",
+      "value": "200MP + 12MP + 10MP"
+     },
+     {
+      "label": "Front",
+      "value": "12MP"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "smartphone",
+   "android",
+   "s-pen"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#18181b",
+   "#f5f0e6",
+   "#8b7bb8"
+  ],
+  "brandSlug": "samsung",
+  "categorySlug": "phones",
+  "createdDaysAgo": 20,
+  "seedRating": 4.6,
+  "seedReviewCount": 1580
+ },
+ {
+  "slug": "pixel-breeze-9-smartphone",
+  "sku": "VX-P-003",
+  "name": "Pixel Breeze 9 Smartphone",
+  "images": [
+   "https://images.unsplash.com/photo-1634403665481-74948d815f03?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1560305527-51dc8ad5a8f8?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1755182670463-048100f6ab93?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1634403665481-74948d815f03?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 649,
+  "currency": "USD",
+  "stock": 55,
+  "badges": [
+   "new"
+  ],
+  "shortDescription": "Clean Android experience with computational photography that just works.",
+  "description": "Pixel Breeze 9 focuses on what matters: a fast, clean software experience and a camera that makes every shot look professional, without breaking the bank.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "obsidian",
+      "label": "Obsidian",
+      "value": "Obsidian",
+      "swatch": "#111827",
+      "inStock": true
+     },
+     {
+      "id": "porcelain",
+      "label": "Porcelain",
+      "value": "Porcelain",
+      "swatch": "#f3f4f6",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "6.3\" OLED 90Hz"
+     }
+    ]
+   },
+   {
+    "title": "Camera",
+    "specs": [
+     {
+      "label": "Rear",
+      "value": "50MP + 12MP"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "smartphone",
+   "android"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#111827",
+   "#f3f4f6"
+  ],
+  "brandSlug": "samsung",
+  "categorySlug": "phones",
+  "createdDaysAgo": 2,
+  "seedRating": 4.5,
+  "seedReviewCount": 860
+ },
+ {
+  "slug": "voltbook-air-14-laptop",
+  "sku": "VX-P-004",
+  "name": "Voltbook Air 14 Laptop",
+  "images": [
+   "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1597673030062-0a0f1a801a31?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 1299,
+  "compareAtPrice": 1499,
+  "currency": "USD",
+  "stock": 22,
+  "badges": [
+   "bestseller",
+   "exclusive"
+  ],
+  "shortDescription": "Fanless design, 18-hour battery and a stunning Liquid Retina display.",
+  "description": "Voltbook Air 14 delivers pro-level performance in a silent, fanless design. With up to 18 hours of battery life and a brilliant Liquid Retina display, it's built for creators on the move.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "midnight",
+      "label": "Midnight",
+      "value": "Midnight",
+      "swatch": "#1e293b",
+      "inStock": true
+     },
+     {
+      "id": "starlight",
+      "label": "Starlight",
+      "value": "Starlight",
+      "swatch": "#f5f0e6",
+      "inStock": true
+     }
+    ]
+   },
+   {
+    "id": "storage",
+    "name": "Storage",
+    "options": [
+     {
+      "id": "256GB",
+      "label": "256GB",
+      "value": "256GB",
+      "priceDelta": 0,
+      "inStock": true
+     },
+     {
+      "id": "512GB",
+      "label": "512GB",
+      "value": "512GB",
+      "priceDelta": 100,
+      "inStock": true
+     },
+     {
+      "id": "1TB",
+      "label": "1TB",
+      "value": "1TB",
+      "priceDelta": 200,
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Performance",
+    "specs": [
+     {
+      "label": "Chip",
+      "value": "M4 10-core"
+     },
+     {
+      "label": "RAM",
+      "value": "16GB unified"
+     }
+    ]
+   },
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "14.2\" Liquid Retina"
+     }
+    ]
+   },
+   {
+    "title": "Battery",
+    "specs": [
+     {
+      "label": "Life",
+      "value": "Up to 18 hours"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "laptop",
+   "ultrabook",
+   "creator"
+  ],
+  "featured": true,
+  "bestSeller": true,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#1e293b",
+   "#f5f0e6"
+  ],
+  "brandSlug": "apple",
+  "categorySlug": "computers",
+  "createdDaysAgo": 60,
+  "seedRating": 4.9,
+  "seedReviewCount": 990
+ },
+ {
+  "slug": "thinkforge-x1-laptop",
+  "sku": "VX-P-005",
+  "name": "ThinkForge X1 Laptop",
+  "images": [
+   "https://images.unsplash.com/photo-1615750173609-2fbf12fd1d2d?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1615750173609-2fbf12fd1d2d?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 1449,
+  "compareAtPrice": 1699,
+  "currency": "USD",
+  "stock": 18,
+  "badges": [
+   "sale"
+  ],
+  "shortDescription": "Business-grade carbon fiber chassis with military-spec durability.",
+  "description": "ThinkForge X1 is engineered for professionals: a carbon-fiber-reinforced chassis, blazing-fast NVMe storage and a keyboard rated among the best in the industry.",
+  "variants": [
+   {
+    "id": "storage",
+    "name": "Storage",
+    "options": [
+     {
+      "id": "512GB",
+      "label": "512GB",
+      "value": "512GB",
+      "priceDelta": 0,
+      "inStock": true
+     },
+     {
+      "id": "1TB",
+      "label": "1TB",
+      "value": "1TB",
+      "priceDelta": 100,
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Performance",
+    "specs": [
+     {
+      "label": "CPU",
+      "value": "Intel Core Ultra 7"
+     },
+     {
+      "label": "RAM",
+      "value": "32GB"
+     }
+    ]
+   },
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "14\" 2.8K OLED"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "laptop",
+   "business"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "lenovo",
+  "categorySlug": "computers",
+  "createdDaysAgo": 90,
+  "seedRating": 4.6,
+  "seedReviewCount": 410
+ },
+ {
+  "slug": "xps-zenith-16-laptop",
+  "sku": "VX-P-006",
+  "name": "XPS Zenith 16 Laptop",
+  "images": [
+   "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1511385348-a52b4a160dc2?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1651169610763-fddf392fadb4?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 1899,
+  "currency": "USD",
+  "stock": 12,
+  "badges": [
+   "limited",
+   "free-shipping"
+  ],
+  "shortDescription": "InfinityEdge display and discrete graphics for demanding creative work.",
+  "description": "XPS Zenith 16 combines an edge-to-edge InfinityEdge display with discrete graphics, making it a favorite among video editors and 3D artists alike.",
+  "variants": [
+   {
+    "id": "storage",
+    "name": "Storage",
+    "options": [
+     {
+      "id": "1TB",
+      "label": "1TB",
+      "value": "1TB",
+      "priceDelta": 0,
+      "inStock": true
+     },
+     {
+      "id": "2TB",
+      "label": "2TB",
+      "value": "2TB",
+      "priceDelta": 100,
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Graphics",
+    "specs": [
+     {
+      "label": "GPU",
+      "value": "RTX 4070 8GB"
+     }
+    ]
+   },
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "16\" 4K+ touch"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "laptop",
+   "creator",
+   "gpu"
+  ],
+  "featured": true,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "dell",
+  "categorySlug": "computers",
+  "createdDaysAgo": 40,
+  "seedRating": 4.7,
+  "seedReviewCount": 320
+ },
+ {
+  "slug": "rog-blaze-17-gaming-laptop",
+  "sku": "VX-P-007",
+  "name": "ROG Blaze 17 Gaming Laptop",
+  "images": [
+   "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1640955014216-75201056c829?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1630794180018-433d915c34ac?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 2199,
+  "compareAtPrice": 2499,
+  "currency": "USD",
+  "stock": 9,
+  "badges": [
+   "sale",
+   "bestseller"
+  ],
+  "shortDescription": "240Hz display and desktop-class RTX graphics for competitive gaming.",
+  "description": "ROG Blaze 17 is built for esports: a 240Hz QHD panel, desktop-class RTX graphics and an advanced cooling system that keeps frame rates high even during marathon sessions.",
+  "variants": [
+   {
+    "id": "storage",
+    "name": "Storage",
+    "options": [
+     {
+      "id": "1TB",
+      "label": "1TB",
+      "value": "1TB",
+      "priceDelta": 0,
+      "inStock": true
+     },
+     {
+      "id": "2TB",
+      "label": "2TB",
+      "value": "2TB",
+      "priceDelta": 100,
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Graphics",
+    "specs": [
+     {
+      "label": "GPU",
+      "value": "RTX 4080 12GB"
+     }
+    ]
+   },
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "17.3\" QHD 240Hz"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "laptop",
+   "gaming"
+  ],
+  "featured": true,
+  "bestSeller": true,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "asus",
+  "categorySlug": "gaming",
+  "createdDaysAgo": 15,
+  "seedRating": 4.7,
+  "seedReviewCount": 275
+ },
+ {
+  "slug": "soundwave-pro-wireless-earbuds",
+  "sku": "VX-P-008",
+  "name": "SoundWave Pro Wireless Earbuds",
+  "images": [
+   "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 179,
+  "compareAtPrice": 229,
+  "currency": "USD",
+  "stock": 120,
+  "badges": [
+   "bestseller",
+   "sale"
+  ],
+  "shortDescription": "Industry-leading noise cancellation in a featherlight design.",
+  "description": "SoundWave Pro earbuds deliver studio-quality sound with adaptive noise cancellation that adjusts to your surroundings, plus up to 30 hours of battery with the charging case.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "black",
+      "label": "Black",
+      "value": "Black",
+      "swatch": "#0f0f10",
+      "inStock": true
+     },
+     {
+      "id": "white",
+      "label": "White",
+      "value": "White",
+      "swatch": "#f5f5f5",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Audio",
+    "specs": [
+     {
+      "label": "Driver",
+      "value": "10mm dynamic"
+     },
+     {
+      "label": "ANC",
+      "value": "Adaptive, 2-mic"
+     }
+    ]
+   },
+   {
+    "title": "Battery",
+    "specs": [
+     {
+      "label": "Earbuds",
+      "value": "8 hours"
+     },
+     {
+      "label": "With case",
+      "value": "30 hours"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "earbuds",
+   "anc",
+   "wireless"
+  ],
+  "featured": true,
+  "bestSeller": true,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#0f0f10",
+   "#f5f5f5"
+  ],
+  "brandSlug": "sony",
+  "categorySlug": "audio",
+  "createdDaysAgo": 30,
+  "seedRating": 4.7,
+  "seedReviewCount": 3400
+ },
+ {
+  "slug": "basspulse-portable-speaker",
+  "sku": "VX-P-009",
+  "name": "BassPulse Portable Speaker",
+  "images": [
+   "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1588131153911-a4ea5189fe19?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1507878566509-a0dbe19677a5?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 79,
+  "compareAtPrice": 99,
+  "currency": "USD",
+  "stock": 80,
+  "badges": [
+   "sale",
+   "free-shipping"
+  ],
+  "shortDescription": "Waterproof speaker with 20-hour battery and punchy bass.",
+  "description": "BassPulse is your poolside and campfire companion: fully waterproof, drop-resistant, and tuned for deep, punchy bass that fills any room or backyard.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "black",
+      "label": "Black",
+      "value": "Black",
+      "swatch": "#111111",
+      "inStock": true
+     },
+     {
+      "id": "red",
+      "label": "Red",
+      "value": "Red",
+      "swatch": "#e01e2b",
+      "inStock": true
+     },
+     {
+      "id": "blue",
+      "label": "Blue",
+      "value": "Blue",
+      "swatch": "#2563eb",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Audio",
+    "specs": [
+     {
+      "label": "Output",
+      "value": "20W RMS"
+     }
+    ]
+   },
+   {
+    "title": "Durability",
+    "specs": [
+     {
+      "label": "Rating",
+      "value": "IP67 waterproof"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "speaker",
+   "portable",
+   "waterproof"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#111111",
+   "#e01e2b",
+   "#2563eb"
+  ],
+  "brandSlug": "jbl",
+  "categorySlug": "audio",
+  "createdDaysAgo": 12,
+  "seedRating": 4.5,
+  "seedReviewCount": 2100
+ },
+ {
+  "slug": "aurasound-studio-headphones",
+  "sku": "VX-P-010",
+  "name": "AuraSound Studio Headphones",
+  "images": [
+   "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 349,
+  "currency": "USD",
+  "stock": 25,
+  "badges": [
+   "exclusive"
+  ],
+  "shortDescription": "Reference-grade over-ear headphones for critical listening.",
+  "description": "AuraSound Studio headphones are tuned by audio engineers for a flat, accurate response, wrapped in memory-foam ear cushions for hours of fatigue-free listening.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "black",
+      "label": "Black",
+      "value": "Black",
+      "swatch": "#0f0f10",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Audio",
+    "specs": [
+     {
+      "label": "Driver",
+      "value": "40mm planar"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "headphones",
+   "studio"
+  ],
+  "featured": true,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#0f0f10"
+  ],
+  "brandSlug": "sony",
+  "categorySlug": "audio",
+  "createdDaysAgo": 100,
+  "seedRating": 4.8,
+  "seedReviewCount": 640
+ },
+ {
+  "slug": "pulsefit-watch-series-7",
+  "sku": "VX-P-011",
+  "name": "PulseFit Watch Series 7",
+  "images": [
+   "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1617043983671-adaadcaa2460?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 399,
+  "compareAtPrice": 449,
+  "currency": "USD",
+  "stock": 60,
+  "badges": [
+   "new",
+   "bestseller"
+  ],
+  "shortDescription": "Always-on display, blood oxygen sensing and 18-hour battery.",
+  "description": "PulseFit Watch Series 7 keeps you connected and healthy with an always-on Retina display, advanced health sensors and seamless notifications right on your wrist.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "midnight",
+      "label": "Midnight",
+      "value": "Midnight",
+      "swatch": "#1e293b",
+      "inStock": true
+     },
+     {
+      "id": "starlight",
+      "label": "Starlight",
+      "value": "Starlight",
+      "swatch": "#f5f0e6",
+      "inStock": true
+     },
+     {
+      "id": "red",
+      "label": "Red",
+      "value": "Red",
+      "swatch": "#e01e2b",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "1.9\" LTPO OLED"
+     }
+    ]
+   },
+   {
+    "title": "Health",
+    "specs": [
+     {
+      "label": "Sensors",
+      "value": "SpO2, ECG, HR"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "smartwatch",
+   "fitness"
+  ],
+  "featured": true,
+  "bestSeller": true,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#1e293b",
+   "#f5f0e6",
+   "#e01e2b"
+  ],
+  "brandSlug": "apple",
+  "categorySlug": "wearables",
+  "createdDaysAgo": 8,
+  "seedRating": 4.7,
+  "seedReviewCount": 1890
+ },
+ {
+  "slug": "trailpace-gps-sports-watch",
+  "sku": "VX-P-012",
+  "name": "TrailPace GPS Sports Watch",
+  "images": [
+   "https://images.unsplash.com/photo-1434494745656-1aea7daa8f6f?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1773399452188-a42e29543bf2?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1722445423163-f57f92ea9f78?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1750776100861-30c172651817?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1434494745656-1aea7daa8f6f?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 299,
+  "currency": "USD",
+  "stock": 45,
+  "badges": [
+   "free-shipping"
+  ],
+  "shortDescription": "Multi-sport GPS watch with 2-week battery life.",
+  "description": "TrailPace is built for endurance athletes, tracking dozens of sports profiles with pinpoint GPS accuracy and a battery that lasts up to two weeks per charge.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "black",
+      "label": "Black",
+      "value": "Black",
+      "swatch": "#111111",
+      "inStock": true
+     },
+     {
+      "id": "slate",
+      "label": "Slate",
+      "value": "Slate",
+      "swatch": "#64748b",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Battery",
+    "specs": [
+     {
+      "label": "Smartwatch mode",
+      "value": "14 days"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "smartwatch",
+   "gps",
+   "sports"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#111111",
+   "#64748b"
+  ],
+  "brandSlug": "garmin",
+  "categorySlug": "wearables",
+  "createdDaysAgo": 70,
+  "seedRating": 4.6,
+  "seedReviewCount": 520
+ },
+ {
+  "slug": "skyview-4k-drone",
+  "sku": "VX-P-013",
+  "name": "SkyView 4K Drone",
+  "images": [
+   "https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1488263590619-bc1fff43b6c1?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 799,
+  "compareAtPrice": 899,
+  "currency": "USD",
+  "stock": 15,
+  "badges": [
+   "sale",
+   "limited"
+  ],
+  "shortDescription": "4K stabilized aerial footage with 34-minute flight time.",
+  "description": "SkyView captures cinema-grade 4K footage from the sky with a 3-axis gimbal, obstacle sensing in all directions, and up to 34 minutes of flight time per battery.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Camera",
+    "specs": [
+     {
+      "label": "Sensor",
+      "value": "1/1.3\" CMOS, 4K/60fps"
+     }
+    ]
+   },
+   {
+    "title": "Flight",
+    "specs": [
+     {
+      "label": "Max time",
+      "value": "34 minutes"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "drone",
+   "camera",
+   "4k"
+  ],
+  "featured": true,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "dji",
+  "categorySlug": "cameras",
+  "createdDaysAgo": 25,
+  "seedRating": 4.8,
+  "seedReviewCount": 310
+ },
+ {
+  "slug": "motioncam-gimbal-stabilizer",
+  "sku": "VX-P-014",
+  "name": "MotionCam Gimbal Stabilizer",
+  "images": [
+   "https://images.unsplash.com/photo-1534961165765-5c9795af911b?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1589800891835-e2bd625c2caa?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1670946022924-2e64d5f310e1?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1670946022550-155e6e7f61d0?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1534961165765-5c9795af911b?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 149,
+  "currency": "USD",
+  "stock": 38,
+  "badges": [
+   "new"
+  ],
+  "shortDescription": "3-axis smartphone gimbal for silky-smooth handheld video.",
+  "description": "MotionCam pairs with your smartphone to deliver silky-smooth, professional-looking footage with intelligent tracking and gesture control.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Stabilization",
+    "specs": [
+     {
+      "label": "Axes",
+      "value": "3-axis brushless"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "gimbal",
+   "camera",
+   "accessories"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "brandSlug": "dji",
+  "categorySlug": "cameras",
+  "createdDaysAgo": 4,
+  "seedRating": 4.4,
+  "seedReviewCount": 450
+ },
+ {
+  "slug": "homehub-smart-display",
+  "sku": "VX-P-015",
+  "name": "HomeHub Smart Display",
+  "images": [
+   "https://images.unsplash.com/photo-1650682009477-52fd77302b78?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1760087616415-62270db23966?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1571251455684-2eb131fdb294?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1650682009477-52fd77302b78?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 129,
+  "compareAtPrice": 159,
+  "currency": "USD",
+  "stock": 55,
+  "badges": [
+   "sale"
+  ],
+  "shortDescription": "Voice-controlled smart display for your kitchen or living room.",
+  "description": "HomeHub puts your calendar, recipes, and smart home controls on a beautiful 10-inch display, all controllable with your voice.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "charcoal",
+      "label": "Charcoal",
+      "value": "Charcoal",
+      "swatch": "#374151",
+      "inStock": true
+     },
+     {
+      "id": "chalk",
+      "label": "Chalk",
+      "value": "Chalk",
+      "swatch": "#f3f4f6",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "10.1\" HD touch"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "smart-home",
+   "display"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#374151",
+   "#f3f4f6"
+  ],
+  "brandSlug": "samsung",
+  "categorySlug": "smart-home",
+  "createdDaysAgo": 33,
+  "seedRating": 4.4,
+  "seedReviewCount": 780
+ },
+ {
+  "slug": "guardcam-outdoor-security-camera",
+  "sku": "VX-P-016",
+  "name": "GuardCam Outdoor Security Camera",
+  "images": [
+   "https://images.unsplash.com/photo-1549109926-58f039549485?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1528312635006-8ea0bc49ec63?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1589935447067-5531094415d1?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1549109926-58f039549485?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 89,
+  "currency": "USD",
+  "stock": 70,
+  "badges": [
+   "bestseller",
+   "free-shipping"
+  ],
+  "shortDescription": "Weatherproof 2K camera with color night vision and AI alerts.",
+  "description": "GuardCam watches over your home in stunning 2K clarity, day or night, and sends smart alerts the moment it detects a person, vehicle or package.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Camera",
+    "specs": [
+     {
+      "label": "Resolution",
+      "value": "2K QHD"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "security",
+   "camera",
+   "smart-home"
+  ],
+  "featured": false,
+  "bestSeller": true,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "anker",
+  "categorySlug": "smart-home",
+  "createdDaysAgo": 18,
+  "seedRating": 4.5,
+  "seedReviewCount": 1220
+ },
+ {
+  "slug": "glowstrip-ambient-led-kit",
+  "sku": "VX-P-017",
+  "name": "GlowStrip Ambient LED Kit",
+  "images": [
+   "https://images.unsplash.com/photo-1618403323851-ac3d38029495?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1572249930263-64fc5bbdb14b?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1500067318459-77a2667d9c54?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1618403323851-ac3d38029495?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 39,
+  "compareAtPrice": 55,
+  "currency": "USD",
+  "stock": 200,
+  "badges": [
+   "sale"
+  ],
+  "shortDescription": "App-controlled RGB LED strip that syncs with music and movies.",
+  "description": "GlowStrip transforms any room with millions of colors, music sync, and scene presets — all controlled from your phone or by voice.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Lighting",
+    "specs": [
+     {
+      "label": "Length",
+      "value": "5m, cuttable"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "lighting",
+   "smart-home"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "brandSlug": "anker",
+  "categorySlug": "smart-home",
+  "createdDaysAgo": 3,
+  "seedRating": 4.3,
+  "seedReviewCount": 2600
+ },
+ {
+  "slug": "nitropad-mechanical-keyboard",
+  "sku": "VX-P-018",
+  "name": "NitroPad Mechanical Keyboard",
+  "images": [
+   "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1635987391914-cb84b567e68f?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1595044426077-d36d9236d54a?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1547394765-185e1e68f34e?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 149,
+  "currency": "USD",
+  "stock": 42,
+  "badges": [
+   "bestseller"
+  ],
+  "shortDescription": "Hot-swappable mechanical keyboard with per-key RGB.",
+  "description": "NitroPad gives competitive gamers the edge with hot-swappable switches, per-key RGB lighting and a rock-solid aluminum frame.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "black",
+      "label": "Black",
+      "value": "Black",
+      "swatch": "#0f0f10",
+      "inStock": true
+     },
+     {
+      "id": "white",
+      "label": "White",
+      "value": "White",
+      "swatch": "#f5f5f5",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Switches",
+    "specs": [
+     {
+      "label": "Type",
+      "value": "Hot-swappable mechanical"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "keyboard",
+   "gaming",
+   "peripherals"
+  ],
+  "featured": true,
+  "bestSeller": true,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#0f0f10",
+   "#f5f5f5"
+  ],
+  "brandSlug": "logitech",
+  "categorySlug": "gaming",
+  "createdDaysAgo": 55,
+  "seedRating": 4.7,
+  "seedReviewCount": 980
+ },
+ {
+  "slug": "precisionx-gaming-mouse",
+  "sku": "VX-P-019",
+  "name": "PrecisionX Gaming Mouse",
+  "images": [
+   "https://images.unsplash.com/photo-1605773527852-c546a8584ea3?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1658070429465-848c0796abf3?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1613141412501-9012977f1969?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1605773527852-c546a8584ea3?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 69,
+  "compareAtPrice": 89,
+  "currency": "USD",
+  "stock": 90,
+  "badges": [
+   "sale",
+   "free-shipping"
+  ],
+  "shortDescription": "26K DPI sensor with a featherweight 58g design.",
+  "description": "PrecisionX is built for esports pros: a 26,000 DPI optical sensor, ultra-light 58g body, and 70-hour battery life on a single charge.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "black",
+      "label": "Black",
+      "value": "Black",
+      "swatch": "#0f0f10",
+      "inStock": true
+     },
+     {
+      "id": "white",
+      "label": "White",
+      "value": "White",
+      "swatch": "#f5f5f5",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Sensor",
+    "specs": [
+     {
+      "label": "DPI",
+      "value": "up to 26,000"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "mouse",
+   "gaming",
+   "peripherals"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#0f0f10",
+   "#f5f5f5"
+  ],
+  "brandSlug": "logitech",
+  "categorySlug": "gaming",
+  "createdDaysAgo": 6,
+  "seedRating": 4.6,
+  "seedReviewCount": 1750
+ },
+ {
+  "slug": "nebula-27-gaming-monitor",
+  "sku": "VX-P-020",
+  "name": "Nebula 27 Gaming Monitor",
+  "images": [
+   "https://images.unsplash.com/photo-1626218174358-7769486c4b79?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1614179924047-e1ab49a0a0cf?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1626218174358-7769486c4b79?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 429,
+  "compareAtPrice": 499,
+  "currency": "USD",
+  "stock": 20,
+  "badges": [
+   "sale",
+   "exclusive"
+  ],
+  "shortDescription": "27\" QHD 165Hz panel with 1ms response time.",
+  "description": "Nebula 27 delivers tear-free, blur-free gaming with a QHD 165Hz IPS panel, 1ms response time and factory color calibration for content creation too.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Panel",
+      "value": "27\" QHD IPS, 165Hz"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "monitor",
+   "gaming"
+  ],
+  "featured": true,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "asus",
+  "categorySlug": "gaming",
+  "createdDaysAgo": 45,
+  "seedRating": 4.8,
+  "seedReviewCount": 610
+ },
+ {
+  "slug": "powercell-20k-power-bank",
+  "sku": "VX-P-021",
+  "name": "PowerCell 20K Power Bank",
+  "images": [
+   "https://images.unsplash.com/photo-1566554738544-d962991c3fee?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1706275399494-fb26bbc5da63?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1585995603413-eb35b5f4a50b?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1566554738544-d962991c3fee?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 49,
+  "compareAtPrice": 65,
+  "currency": "USD",
+  "stock": 150,
+  "badges": [
+   "bestseller",
+   "sale"
+  ],
+  "shortDescription": "20,000mAh power bank with 65W fast charging for laptops and phones.",
+  "description": "PowerCell 20K charges your laptop and phone at the same time with 65W fast charging, packed into a pocketable, TSA-friendly design.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Battery",
+    "specs": [
+     {
+      "label": "Capacity",
+      "value": "20,000mAh"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "power-bank",
+   "charging",
+   "accessories"
+  ],
+  "featured": false,
+  "bestSeller": true,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "brandSlug": "anker",
+  "categorySlug": "accessories",
+  "createdDaysAgo": 10,
+  "seedRating": 4.6,
+  "seedReviewCount": 3200
+ },
+ {
+  "slug": "tricharge-3-in-1-wireless-charger",
+  "sku": "VX-P-022",
+  "name": "TriCharge 3-in-1 Wireless Charger",
+  "images": [
+   "https://images.unsplash.com/photo-1545235616-db3cd822ad8c?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1591290619618-904f6dd935e3?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1615526675159-e248c3021d3f?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1737882171913-f4ced0ce73d8?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1545235616-db3cd822ad8c?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 59,
+  "currency": "USD",
+  "stock": 95,
+  "badges": [
+   "new",
+   "free-shipping"
+  ],
+  "shortDescription": "Charge your phone, watch and earbuds at once.",
+  "description": "TriCharge keeps your nightstand tidy, wirelessly charging your phone, watch and earbuds simultaneously with MagSafe-compatible alignment.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Charging",
+    "specs": [
+     {
+      "label": "Output",
+      "value": "15W / 5W / 5W"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "charger",
+   "accessories",
+   "wireless"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "anker",
+  "categorySlug": "accessories",
+  "createdDaysAgo": 1,
+  "seedRating": 4.4,
+  "seedReviewCount": 1400
+ },
+ {
+  "slug": "armorshell-protective-case",
+  "sku": "VX-P-023",
+  "name": "ArmorShell Protective Case",
+  "images": [
+   "https://images.unsplash.com/photo-1535157412991-2ef801c1748b?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1623393884989-cb3663e431c5?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1623393945964-8f5d573f9358?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1625102216615-3a61ee26e4db?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1535157412991-2ef801c1748b?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 29,
+  "currency": "USD",
+  "stock": 300,
+  "badges": [],
+  "shortDescription": "Military-grade drop protection without the bulk.",
+  "description": "ArmorShell survives drops up to 3 meters while staying slim enough to slip in and out of your pocket easily.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "clear",
+      "label": "Clear",
+      "value": "Clear",
+      "swatch": "#e5e7eb",
+      "inStock": true
+     },
+     {
+      "id": "black",
+      "label": "Black",
+      "value": "Black",
+      "swatch": "#111111",
+      "inStock": true
+     },
+     {
+      "id": "navy",
+      "label": "Navy",
+      "value": "Navy",
+      "swatch": "#1e3a8a",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Protection",
+    "specs": [
+     {
+      "label": "Drop rating",
+      "value": "3m MIL-STD-810G"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "case",
+   "accessories"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#e5e7eb",
+   "#111111",
+   "#1e3a8a"
+  ],
+  "brandSlug": "anker",
+  "categorySlug": "accessories",
+  "createdDaysAgo": 80,
+  "seedRating": 4.2,
+  "seedReviewCount": 2900
+ },
+ {
+  "slug": "flexarm-laptop-stand",
+  "sku": "VX-P-024",
+  "name": "FlexArm Laptop Stand",
+  "images": [
+   "https://images.unsplash.com/photo-1629317480826-910f729d1709?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1623567238235-940ff1311da7?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1623251609314-97cc1f84e3ed?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1709536777126-238639005f7a?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1629317480826-910f729d1709?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 45,
+  "compareAtPrice": 59,
+  "currency": "USD",
+  "stock": 60,
+  "badges": [
+   "sale"
+  ],
+  "shortDescription": "Adjustable aluminum stand for ergonomic desk setups.",
+  "description": "FlexArm elevates your laptop to eye level and improves airflow, with tool-free height and angle adjustment for the perfect ergonomic setup.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Build",
+    "specs": [
+     {
+      "label": "Material",
+      "value": "Aircraft-grade aluminum"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "stand",
+   "desk",
+   "accessories"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "brandSlug": "logitech",
+  "categorySlug": "accessories",
+  "createdDaysAgo": 22,
+  "seedRating": 4.5,
+  "seedReviewCount": 640
+ },
+ {
+  "slug": "crystalview-4k-webcam",
+  "sku": "VX-P-025",
+  "name": "CrystalView 4K Webcam",
+  "images": [
+   "https://images.unsplash.com/photo-1629429407756-446d66f5b24e?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1713946598377-891884fa90de?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1629429407756-446d66f5b24e?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 99,
+  "currency": "USD",
+  "stock": 48,
+  "badges": [
+   "new"
+  ],
+  "shortDescription": "4K webcam with auto-framing for crisp video calls.",
+  "description": "CrystalView keeps you sharp and centered in every call with 4K HDR video, auto light correction and AI-powered auto-framing.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Video",
+    "specs": [
+     {
+      "label": "Resolution",
+      "value": "4K @ 30fps"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "webcam",
+   "accessories",
+   "work-from-home"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": false,
+  "warrantyMonths": 12,
+  "brandSlug": "logitech",
+  "categorySlug": "accessories",
+  "createdDaysAgo": 7,
+  "seedRating": 4.6,
+  "seedReviewCount": 510
+ },
+ {
+  "slug": "orbitbuds-sport-earbuds",
+  "sku": "VX-P-026",
+  "name": "OrbitBuds Sport Earbuds",
+  "images": [
+   "https://images.unsplash.com/photo-1578319439584-104c94d37305?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1606741965326-cb990ae01bb2?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1578319439584-104c94d37305?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 59,
+  "compareAtPrice": 79,
+  "currency": "USD",
+  "stock": 130,
+  "badges": [
+   "sale",
+   "free-shipping"
+  ],
+  "shortDescription": "Sweatproof true wireless earbuds built for workouts.",
+  "description": "OrbitBuds stay locked in during your toughest workouts with an IP67 rating, secure ear hooks and punchy bass to keep you motivated.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "black",
+      "label": "Black",
+      "value": "Black",
+      "swatch": "#111111",
+      "inStock": true
+     },
+     {
+      "id": "teal",
+      "label": "Teal",
+      "value": "Teal",
+      "swatch": "#0d9488",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Durability",
+    "specs": [
+     {
+      "label": "Rating",
+      "value": "IP67"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "earbuds",
+   "sport",
+   "wireless"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#111111",
+   "#0d9488"
+  ],
+  "brandSlug": "jbl",
+  "categorySlug": "audio",
+  "createdDaysAgo": 14,
+  "seedRating": 4.3,
+  "seedReviewCount": 1900
+ },
+ {
+  "slug": "streamcast-portable-projector",
+  "sku": "VX-P-027",
+  "name": "StreamCast Portable Projector",
+  "images": [
+   "https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1589113050289-1c654e7e305d?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1637656375538-9dfe600ccfd2?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1637656358738-3fcfacb63559?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 349,
+  "compareAtPrice": 429,
+  "currency": "USD",
+  "stock": 16,
+  "badges": [
+   "sale",
+   "limited"
+  ],
+  "shortDescription": "1080p smart projector with autofocus and built-in streaming apps.",
+  "description": "StreamCast turns any wall into a home theater with native 1080p resolution, instant autofocus and all your favorite streaming apps built right in.",
+  "variants": [],
+  "specGroups": [
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Resolution",
+      "value": "Native 1080p"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "projector",
+   "home-theater",
+   "smart-home"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "sony",
+  "categorySlug": "smart-home",
+  "createdDaysAgo": 28,
+  "seedRating": 4.5,
+  "seedReviewCount": 380
+ },
+ {
+  "slug": "tabletpro-12-slate",
+  "sku": "VX-P-028",
+  "name": "TabletPro 12 Slate",
+  "images": [
+   "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1542751110-97427bbecf20?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 799,
+  "compareAtPrice": 899,
+  "currency": "USD",
+  "stock": 30,
+  "badges": [
+   "sale",
+   "new"
+  ],
+  "shortDescription": "12.4\" AMOLED tablet with stylus support for work and creativity.",
+  "description": "TabletPro 12 combines a vivid AMOLED display with stylus support and a detachable keyboard, making it just as capable for notes as it is for movies.",
+  "variants": [
+   {
+    "id": "storage",
+    "name": "Storage",
+    "options": [
+     {
+      "id": "128GB",
+      "label": "128GB",
+      "value": "128GB",
+      "priceDelta": 0,
+      "inStock": true
+     },
+     {
+      "id": "256GB",
+      "label": "256GB",
+      "value": "256GB",
+      "priceDelta": 100,
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Display",
+    "specs": [
+     {
+      "label": "Screen",
+      "value": "12.4\" AMOLED"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "tablet",
+   "creator"
+  ],
+  "featured": false,
+  "bestSeller": false,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "brandSlug": "samsung",
+  "categorySlug": "computers",
+  "createdDaysAgo": 9,
+  "seedRating": 4.6,
+  "seedReviewCount": 720
+ },
+ {
+  "slug": "echodot-smart-speaker-mini",
+  "sku": "VX-P-029",
+  "name": "EchoDot Smart Speaker Mini",
+  "images": [
+   "https://images.unsplash.com/photo-1519558260268-cde7e03a0152?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1558089687-f282ffcbc126?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1586078875290-c22eb791ad5d?auto=format&fit=crop&q=80&w=900&h=900",
+   "https://images.unsplash.com/photo-1529359744902-86b2ab9edaea?auto=format&fit=crop&q=80&w=900&h=900"
+  ],
+  "thumbnail": "https://images.unsplash.com/photo-1519558260268-cde7e03a0152?auto=format&fit=crop&q=80&w=900&h=900",
+  "price": 34,
+  "compareAtPrice": 49,
+  "currency": "USD",
+  "stock": 220,
+  "badges": [
+   "sale",
+   "bestseller",
+   "free-shipping"
+  ],
+  "shortDescription": "Compact smart speaker with voice assistant built in.",
+  "description": "EchoDot Mini brings voice control, music streaming and smart home commands to any room, at a price that makes it easy to fill your whole house.",
+  "variants": [
+   {
+    "id": "color",
+    "name": "Color",
+    "options": [
+     {
+      "id": "charcoal",
+      "label": "Charcoal",
+      "value": "Charcoal",
+      "swatch": "#374151",
+      "inStock": true
+     },
+     {
+      "id": "white",
+      "label": "White",
+      "value": "White",
+      "swatch": "#f5f5f5",
+      "inStock": true
+     }
+    ]
+   }
+  ],
+  "specGroups": [
+   {
+    "title": "Audio",
+    "specs": [
+     {
+      "label": "Driver",
+      "value": "1.6\" full-range"
+     }
+    ]
+   }
+  ],
+  "tags": [
+   "smart-speaker",
+   "smart-home"
+  ],
+  "featured": false,
+  "bestSeller": true,
+  "freeShipping": true,
+  "warrantyMonths": 12,
+  "colorSwatches": [
+   "#374151",
+   "#f5f5f5"
+  ],
+  "brandSlug": "jbl",
+  "categorySlug": "smart-home",
+  "createdDaysAgo": 16,
+  "seedRating": 4.2,
+  "seedReviewCount": 4100
+ }
+]

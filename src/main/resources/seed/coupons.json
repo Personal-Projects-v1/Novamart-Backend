@@ -1,0 +1,25 @@
+[
+ {
+  "code": "WELCOME10",
+  "type": "percent",
+  "value": 10,
+  "description": "10% off your first order",
+  "expiresInDays": 30
+ },
+ {
+  "code": "STUDENT15",
+  "type": "percent",
+  "value": 15,
+  "minSubtotal": 100,
+  "description": "15% off orders over $100 with student verification",
+  "expiresInDays": 60
+ },
+ {
+  "code": "FLASH20",
+  "type": "fixed",
+  "value": 20,
+  "minSubtotal": 150,
+  "description": "$20 off flash sale orders over $150 (expired)",
+  "expiresInDays": -1
+ }
+]

@@ -14,6 +14,8 @@ public class AuthResponse {
     private String refreshToken;
     @Builder.Default
     private String tokenType = "Bearer";
+    /** Id of the refresh-token row backing this login, so the client can mark "this device" in the sessions list. */
+    private String sessionId;
     private UserInfo user;
 
     @Data
@@ -30,5 +32,6 @@ public class AuthResponse {
         private String role;
         private Boolean emailVerified;
         private Boolean phoneVerified;
+        private String createdAt;
     }
 }

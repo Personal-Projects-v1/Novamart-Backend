@@ -1,0 +1,66 @@
+[
+ {
+  "slug": "phones",
+  "name": "Phones",
+  "description": "Flagship and budget smartphones from every major brand.",
+  "image": "https://images.unsplash.com/photo-1592890288564-76628a30a657?auto=format&fit=crop&q=80&w=800&h=600",
+  "icon": "Smartphone",
+  "parentSlug": null
+ },
+ {
+  "slug": "computers",
+  "name": "Computers",
+  "description": "Laptops, desktops and workstations for work and play.",
+  "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&q=80&w=800&h=600",
+  "icon": "Laptop",
+  "parentSlug": null
+ },
+ {
+  "slug": "audio",
+  "name": "Audio",
+  "description": "Headphones, earbuds and speakers tuned for every genre.",
+  "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800&h=600",
+  "icon": "Headphones",
+  "parentSlug": null
+ },
+ {
+  "slug": "smart-home",
+  "name": "Smart Home",
+  "description": "Connected devices that make your home smarter and safer.",
+  "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&q=80&w=800&h=600",
+  "icon": "Home",
+  "parentSlug": null
+ },
+ {
+  "slug": "gaming",
+  "name": "Gaming",
+  "description": "Consoles, peripherals and gear for competitive play.",
+  "image": "https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?auto=format&fit=crop&q=80&w=800&h=600",
+  "icon": "Gamepad2",
+  "parentSlug": null
+ },
+ {
+  "slug": "wearables",
+  "name": "Wearables",
+  "description": "Smartwatches and fitness trackers that keep up with you.",
+  "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&q=80&w=800&h=600",
+  "icon": "Watch",
+  "parentSlug": null
+ },
+ {
+  "slug": "cameras",
+  "name": "Cameras",
+  "description": "Mirrorless, action and drone cameras for every creator.",
+  "image": "https://images.unsplash.com/photo-1516724562728-afc824a36e84?auto=format&fit=crop&q=80&w=800&h=600",
+  "icon": "Camera",
+  "parentSlug": null
+ },
+ {
+  "slug": "accessories",
+  "name": "Accessories",
+  "description": "Chargers, cases, cables and everyday essentials.",
+  "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&q=80&w=800&h=600",
+  "icon": "Cable",
+  "parentSlug": null
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "productSlug": "aurora-pro-15-smartphone",
+  "endsInHours": 6.5,
+  "claimedPercent": 30,
+  "dealPrice": 824
+ },
+ {
+  "productSlug": "galaxy-nova-x-smartphone",
+  "endsInHours": 5.5,
+  "claimedPercent": 40,
+  "dealPrice": 712
+ },
+ {
+  "productSlug": "pixel-breeze-9-smartphone",
+  "endsInHours": 4.5,
+  "claimedPercent": 50,
+  "dealPrice": 487
+ },
+ {
+  "productSlug": "voltbook-air-14-laptop",
+  "endsInHours": 3.5,
+  "claimedPercent": 60,
+  "dealPrice": 974
+ },
+ {
+  "productSlug": "thinkforge-x1-laptop",
+  "endsInHours": 2.5,
+  "claimedPercent": 70,
+  "dealPrice": 1087
+ },
+ {
+  "productSlug": "xps-zenith-16-laptop",
+  "endsInHours": 1.5,
+  "claimedPercent": 80,
+  "dealPrice": 1424
+ }
+]

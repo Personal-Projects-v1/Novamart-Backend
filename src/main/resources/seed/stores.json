@@ -1,0 +1,57 @@
+[
+ {
+  "name": "NovaMart Kigali Heights",
+  "city": "Kigali",
+  "country": "Rwanda",
+  "address": "KG 7 Ave, Kigali Heights, Ground Floor",
+  "hours": "Mon-Sat: 9am - 8pm, Sun: 11am - 6pm",
+  "services": [
+   "In-store pickup",
+   "Repairs",
+   "Trade-in"
+  ],
+  "lat": -1.9536,
+  "lng": 30.0916
+ },
+ {
+  "name": "NovaMart Manhattan",
+  "city": "New York",
+  "country": "United States",
+  "address": "5th Avenue, New York, NY",
+  "hours": "Mon-Sun: 10am - 9pm",
+  "services": [
+   "In-store pickup",
+   "Genius Bar",
+   "Trade-in"
+  ],
+  "lat": 40.758,
+  "lng": -73.9855
+ },
+ {
+  "name": "NovaMart Oxford Street",
+  "city": "London",
+  "country": "United Kingdom",
+  "address": "Oxford Street, London",
+  "hours": "Mon-Sat: 9am - 8pm, Sun: 12pm - 6pm",
+  "services": [
+   "In-store pickup",
+   "Repairs"
+  ],
+  "lat": 51.5154,
+  "lng": -0.1415
+ },
+ {
+  "name": "NovaMart Dubai Mall",
+  "city": "Dubai",
+  "country": "UAE",
+  "address": "The Dubai Mall, Level 1",
+  "hours": "Daily: 10am - 11pm",
+  "services": [
+   "In-store pickup",
+   "Repairs",
+   "Trade-in"
+  ],
+  "lat": 25.1975,
+  "lng": 55.2796
+ }
+]

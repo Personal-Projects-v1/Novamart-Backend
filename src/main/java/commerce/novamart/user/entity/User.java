@@ -7,6 +7,8 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+import java.time.LocalDate;
+
 @Entity
 @Table(name = "users", indexes = {
         @Index(name = "idx_user_email", columnList = "email"),
@@ -47,4 +49,21 @@ public class User extends BaseEntity {
     @Enumerated(EnumType.STRING)
     @Column(nullable = false, length = 20)
     private Role role = Role.CUSTOMER;
+
+    private LocalDate birthday;
+
+    @Column(length = 20)
+    private String gender;
+
+    @Column(name = "pref_order_updates", nullable = false)
+    private boolean prefOrderUpdates = true;
+
+    @Column(name = "pref_promotions", nullable = false)
+    private boolean prefPromotions = true;
+
+    @Column(name = "pref_price_drops", nullable = false)
+    private boolean prefPriceDrops = true;
+
+    @Column(name = "pref_newsletter", nullable = false)
+    private boolean prefNewsletter = false;
 }

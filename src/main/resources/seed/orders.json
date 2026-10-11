@@ -1,0 +1,104 @@
+[
+ {
+  "status": "delivered",
+  "daysAgo": 5,
+  "paymentMethod": "Visa •••• 4242",
+  "shippingMethod": "Express (2-3 days)",
+  "trackingNumber": "1Z999AA100123456",
+  "items": [
+   {
+    "productSlug": "aurora-pro-15-smartphone",
+    "quantity": 1
+   },
+   {
+    "productSlug": "galaxy-nova-x-smartphone",
+    "quantity": 2
+   }
+  ]
+ },
+ {
+  "status": "shipped",
+  "daysAgo": 10,
+  "paymentMethod": "Mobile Money",
+  "shippingMethod": "Standard (5-7 days)",
+  "trackingNumber": "1Z999AA110123456",
+  "items": [
+   {
+    "productSlug": "pixel-breeze-9-smartphone",
+    "quantity": 1
+   },
+   {
+    "productSlug": "voltbook-air-14-laptop",
+    "quantity": 2
+   }
+  ]
+ },
+ {
+  "status": "processing",
+  "daysAgo": 15,
+  "paymentMethod": "Visa •••• 4242",
+  "shippingMethod": "Standard (5-7 days)",
+  "trackingNumber": null,
+  "items": [
+   {
+    "productSlug": "thinkforge-x1-laptop",
+    "quantity": 1
+   },
+   {
+    "productSlug": "xps-zenith-16-laptop",
+    "quantity": 2
+   }
+  ]
+ },
+ {
+  "status": "out-for-delivery",
+  "daysAgo": 20,
+  "paymentMethod": "Mobile Money",
+  "shippingMethod": "Express (2-3 days)",
+  "trackingNumber": "1Z999AA130123456",
+  "items": [
+   {
+    "productSlug": "rog-blaze-17-gaming-laptop",
+    "quantity": 1
+   },
+   {
+    "productSlug": "soundwave-pro-wireless-earbuds",
+    "quantity": 2
+   }
+  ]
+ },
+ {
+  "status": "cancelled",
+  "daysAgo": 25,
+  "paymentMethod": "Visa •••• 4242",
+  "shippingMethod": "Standard (5-7 days)",
+  "trackingNumber": null,
+  "items": [
+   {
+    "productSlug": "basspulse-portable-speaker",
+    "quantity": 1
+   },
+   {
+    "productSlug": "aurasound-studio-headphones",
+    "quantity": 2
+   }
+  ]
+ },
+ {
+  "status": "delivered",
+  "daysAgo": 30,
+  "paymentMethod": "Mobile Money",
+  "shippingMethod": "Standard (5-7 days)",
+  "trackingNumber": "1Z999AA150123456",
+  "items": [
+   {
+    "productSlug": "pulsefit-watch-series-7",
+    "quantity": 1
+   },
+   {
+    "productSlug": "trailpace-gps-sports-watch",
+    "quantity": 2
+   }
+  ]
+ }
+]

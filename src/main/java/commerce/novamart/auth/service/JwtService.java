@@ -41,6 +41,8 @@ public class JwtService {
 
     public String generateRefreshToken(User user) {
         return Jwts.builder()
+                // jti keeps two refresh tokens issued in the same second distinct (the column is UNIQUE)
+                .id(java.util.UUID.randomUUID().toString())
                 .subject(user.getEmail())
                 .claim("userId", user.getId().toString())
                 .issuedAt(new Date())

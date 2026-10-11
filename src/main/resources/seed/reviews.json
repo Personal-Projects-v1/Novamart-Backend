@@ -1,0 +1,1272 @@
+[
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "Impressive build quality",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 72,
+  "productSlug": "aurora-pro-15-smartphone",
+  "daysAgo": 42
+ },
+ {
+  "userName": "David T.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 33,
+  "productSlug": "aurora-pro-15-smartphone",
+  "daysAgo": 17
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 21,
+  "productSlug": "aurora-pro-15-smartphone",
+  "daysAgo": 57
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "Great value for the price",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 39,
+  "productSlug": "aurora-pro-15-smartphone",
+  "daysAgo": 26
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 4,
+  "title": "Great value for the price",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 34,
+  "productSlug": "galaxy-nova-x-smartphone",
+  "daysAgo": 34
+ },
+ {
+  "userName": "David T.",
+  "rating": 5,
+  "title": "Works exactly as described",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 41,
+  "productSlug": "galaxy-nova-x-smartphone",
+  "daysAgo": 59
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "Impressive build quality",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 59,
+  "productSlug": "galaxy-nova-x-smartphone",
+  "daysAgo": 8
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "Would buy again",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": false,
+  "helpfulCount": 8,
+  "productSlug": "galaxy-nova-x-smartphone",
+  "daysAgo": 16
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 4,
+  "title": "Would buy again",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 76,
+  "productSlug": "pixel-breeze-9-smartphone",
+  "daysAgo": 25
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 4,
+  "title": "Impressive build quality",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 50,
+  "productSlug": "pixel-breeze-9-smartphone",
+  "daysAgo": 41
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 4,
+  "title": "Fast shipping, great packaging",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 18,
+  "productSlug": "pixel-breeze-9-smartphone",
+  "daysAgo": 19
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 57,
+  "productSlug": "pixel-breeze-9-smartphone",
+  "daysAgo": 6
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 4,
+  "title": "A few minor issues but overall solid",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 39,
+  "productSlug": "voltbook-air-14-laptop",
+  "daysAgo": 17
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 4,
+  "title": "A few minor issues but overall solid",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 59,
+  "productSlug": "voltbook-air-14-laptop",
+  "daysAgo": 23
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 57,
+  "productSlug": "voltbook-air-14-laptop",
+  "daysAgo": 30
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 5,
+  "title": "Great value for the price",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 27,
+  "productSlug": "voltbook-air-14-laptop",
+  "daysAgo": 55
+ },
+ {
+  "userName": "David T.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 1,
+  "productSlug": "thinkforge-x1-laptop",
+  "daysAgo": 9
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 68,
+  "productSlug": "thinkforge-x1-laptop",
+  "daysAgo": 5
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 16,
+  "productSlug": "thinkforge-x1-laptop",
+  "daysAgo": 41
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 76,
+  "productSlug": "thinkforge-x1-laptop",
+  "daysAgo": 45
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 43,
+  "productSlug": "xps-zenith-16-laptop",
+  "daysAgo": 1
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "Fast shipping, great packaging",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 77,
+  "productSlug": "xps-zenith-16-laptop",
+  "daysAgo": 47
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 5,
+  "title": "Works exactly as described",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 55,
+  "productSlug": "xps-zenith-16-laptop",
+  "daysAgo": 52
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 45,
+  "productSlug": "xps-zenith-16-laptop",
+  "daysAgo": 35
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 5,
+  "title": "Great value for the price",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 6,
+  "productSlug": "rog-blaze-17-gaming-laptop",
+  "daysAgo": 52
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "Works exactly as described",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 6,
+  "productSlug": "rog-blaze-17-gaming-laptop",
+  "daysAgo": 29
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 4,
+  "title": "Great value for the price",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 14,
+  "productSlug": "rog-blaze-17-gaming-laptop",
+  "daysAgo": 3
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 15,
+  "productSlug": "rog-blaze-17-gaming-laptop",
+  "daysAgo": 25
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 48,
+  "productSlug": "soundwave-pro-wireless-earbuds",
+  "daysAgo": 44
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 14,
+  "productSlug": "soundwave-pro-wireless-earbuds",
+  "daysAgo": 11
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 52,
+  "productSlug": "soundwave-pro-wireless-earbuds",
+  "daysAgo": 13
+ },
+ {
+  "userName": "David T.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 64,
+  "productSlug": "soundwave-pro-wireless-earbuds",
+  "daysAgo": 14
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 64,
+  "productSlug": "soundwave-pro-wireless-earbuds",
+  "daysAgo": 56
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 4,
+  "title": "Fast shipping, great packaging",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 10,
+  "productSlug": "basspulse-portable-speaker",
+  "daysAgo": 36
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 4,
+  "title": "Would buy again",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 23,
+  "productSlug": "basspulse-portable-speaker",
+  "daysAgo": 53
+ },
+ {
+  "userName": "David T.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 11,
+  "productSlug": "basspulse-portable-speaker",
+  "daysAgo": 24
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 33,
+  "productSlug": "basspulse-portable-speaker",
+  "daysAgo": 4
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 5,
+  "title": "Fast shipping, great packaging",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 12,
+  "productSlug": "basspulse-portable-speaker",
+  "daysAgo": 39
+ },
+ {
+  "userName": "David T.",
+  "rating": 4,
+  "title": "Impressive build quality",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 53,
+  "productSlug": "aurasound-studio-headphones",
+  "daysAgo": 27
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 32,
+  "productSlug": "aurasound-studio-headphones",
+  "daysAgo": 35
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "Fast shipping, great packaging",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": false,
+  "helpfulCount": 50,
+  "productSlug": "aurasound-studio-headphones",
+  "daysAgo": 35
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 3,
+  "productSlug": "aurasound-studio-headphones",
+  "daysAgo": 54
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 4,
+  "title": "My new daily driver",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 40,
+  "productSlug": "aurasound-studio-headphones",
+  "daysAgo": 22
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 15,
+  "productSlug": "pulsefit-watch-series-7",
+  "daysAgo": 19
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 41,
+  "productSlug": "pulsefit-watch-series-7",
+  "daysAgo": 17
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 9,
+  "productSlug": "pulsefit-watch-series-7",
+  "daysAgo": 46
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 4,
+  "title": "Would buy again",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 52,
+  "productSlug": "pulsefit-watch-series-7",
+  "daysAgo": 44
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 69,
+  "productSlug": "pulsefit-watch-series-7",
+  "daysAgo": 5
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 5,
+  "title": "Works exactly as described",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 57,
+  "productSlug": "trailpace-gps-sports-watch",
+  "daysAgo": 11
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "Great value for the price",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 50,
+  "productSlug": "trailpace-gps-sports-watch",
+  "daysAgo": 59
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 48,
+  "productSlug": "trailpace-gps-sports-watch",
+  "daysAgo": 57
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 21,
+  "productSlug": "trailpace-gps-sports-watch",
+  "daysAgo": 33
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 5,
+  "title": "Great value for the price",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 17,
+  "productSlug": "trailpace-gps-sports-watch",
+  "daysAgo": 47
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 20,
+  "productSlug": "skyview-4k-drone",
+  "daysAgo": 3
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 59,
+  "productSlug": "skyview-4k-drone",
+  "daysAgo": 41
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 4,
+  "title": "Works exactly as described",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 7,
+  "productSlug": "skyview-4k-drone",
+  "daysAgo": 8
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 4,
+  "title": "Exceeded my expectations",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 70,
+  "productSlug": "skyview-4k-drone",
+  "daysAgo": 23
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 46,
+  "productSlug": "skyview-4k-drone",
+  "daysAgo": 30
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 4,
+  "title": "Fast shipping, great packaging",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 62,
+  "productSlug": "motioncam-gimbal-stabilizer",
+  "daysAgo": 54
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Works exactly as described",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 68,
+  "productSlug": "motioncam-gimbal-stabilizer",
+  "daysAgo": 23
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 4,
+  "title": "Great value for the price",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 45,
+  "productSlug": "motioncam-gimbal-stabilizer",
+  "daysAgo": 19
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": false,
+  "helpfulCount": 40,
+  "productSlug": "motioncam-gimbal-stabilizer",
+  "daysAgo": 13
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": false,
+  "helpfulCount": 74,
+  "productSlug": "motioncam-gimbal-stabilizer",
+  "daysAgo": 13
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 9,
+  "productSlug": "motioncam-gimbal-stabilizer",
+  "daysAgo": 59
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 4,
+  "title": "Impressive build quality",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": false,
+  "helpfulCount": 24,
+  "productSlug": "homehub-smart-display",
+  "daysAgo": 46
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Impressive build quality",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 76,
+  "productSlug": "homehub-smart-display",
+  "daysAgo": 5
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 4,
+  "productSlug": "homehub-smart-display",
+  "daysAgo": 30
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 4,
+  "title": "My new daily driver",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": false,
+  "helpfulCount": 9,
+  "productSlug": "homehub-smart-display",
+  "daysAgo": 3
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "My new daily driver",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 22,
+  "productSlug": "homehub-smart-display",
+  "daysAgo": 56
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 4,
+  "title": "A few minor issues but overall solid",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 18,
+  "productSlug": "homehub-smart-display",
+  "daysAgo": 7
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Great value for the price",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 67,
+  "productSlug": "guardcam-outdoor-security-camera",
+  "daysAgo": 38
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 5,
+  "productSlug": "guardcam-outdoor-security-camera",
+  "daysAgo": 47
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 43,
+  "productSlug": "guardcam-outdoor-security-camera",
+  "daysAgo": 41
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 58,
+  "productSlug": "guardcam-outdoor-security-camera",
+  "daysAgo": 52
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "Impressive build quality",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 51,
+  "productSlug": "guardcam-outdoor-security-camera",
+  "daysAgo": 38
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Fast shipping, great packaging",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 26,
+  "productSlug": "guardcam-outdoor-security-camera",
+  "daysAgo": 15
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 29,
+  "productSlug": "glowstrip-ambient-led-kit",
+  "daysAgo": 30
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Exceeded my expectations",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 14,
+  "productSlug": "glowstrip-ambient-led-kit",
+  "daysAgo": 29
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 4,
+  "title": "Fast shipping, great packaging",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 2,
+  "productSlug": "glowstrip-ambient-led-kit",
+  "daysAgo": 52
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 4,
+  "title": "Would buy again",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 28,
+  "productSlug": "glowstrip-ambient-led-kit",
+  "daysAgo": 42
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "Great value for the price",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": false,
+  "helpfulCount": 79,
+  "productSlug": "glowstrip-ambient-led-kit",
+  "daysAgo": 21
+ },
+ {
+  "userName": "David T.",
+  "rating": 4,
+  "title": "Impressive build quality",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 35,
+  "productSlug": "glowstrip-ambient-led-kit",
+  "daysAgo": 23
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 71,
+  "productSlug": "nitropad-mechanical-keyboard",
+  "daysAgo": 21
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 5,
+  "title": "Fast shipping, great packaging",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 23,
+  "productSlug": "nitropad-mechanical-keyboard",
+  "daysAgo": 11
+ },
+ {
+  "userName": "David T.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 41,
+  "productSlug": "nitropad-mechanical-keyboard",
+  "daysAgo": 3
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 77,
+  "productSlug": "nitropad-mechanical-keyboard",
+  "daysAgo": 32
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 5,
+  "title": "Works exactly as described",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 28,
+  "productSlug": "nitropad-mechanical-keyboard",
+  "daysAgo": 4
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 44,
+  "productSlug": "nitropad-mechanical-keyboard",
+  "daysAgo": 31
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 5,
+  "title": "My new daily driver",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 34,
+  "productSlug": "precisionx-gaming-mouse",
+  "daysAgo": 13
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 4,
+  "title": "Works exactly as described",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 32,
+  "productSlug": "precisionx-gaming-mouse",
+  "daysAgo": 53
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 0,
+  "productSlug": "precisionx-gaming-mouse",
+  "daysAgo": 14
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "Exceeded my expectations",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 46,
+  "productSlug": "precisionx-gaming-mouse",
+  "daysAgo": 22
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 4,
+  "title": "A few minor issues but overall solid",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 56,
+  "productSlug": "precisionx-gaming-mouse",
+  "daysAgo": 47
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Works exactly as described",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 53,
+  "productSlug": "precisionx-gaming-mouse",
+  "daysAgo": 39
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 76,
+  "productSlug": "nebula-27-gaming-monitor",
+  "daysAgo": 5
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 4,
+  "title": "My new daily driver",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 41,
+  "productSlug": "nebula-27-gaming-monitor",
+  "daysAgo": 35
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 4,
+  "title": "Works exactly as described",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 38,
+  "productSlug": "nebula-27-gaming-monitor",
+  "daysAgo": 25
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Works exactly as described",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 38,
+  "productSlug": "powercell-20k-power-bank",
+  "daysAgo": 56
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 5,
+  "title": "Would buy again",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 49,
+  "productSlug": "powercell-20k-power-bank",
+  "daysAgo": 17
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 5,
+  "title": "Great value for the price",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 77,
+  "productSlug": "powercell-20k-power-bank",
+  "daysAgo": 36
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "Would buy again",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 1,
+  "productSlug": "tricharge-3-in-1-wireless-charger",
+  "daysAgo": 48
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 58,
+  "productSlug": "tricharge-3-in-1-wireless-charger",
+  "daysAgo": 59
+ },
+ {
+  "userName": "Eric N.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": false,
+  "helpfulCount": 36,
+  "productSlug": "tricharge-3-in-1-wireless-charger",
+  "daysAgo": 47
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 5,
+  "title": "Fast shipping, great packaging",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 43,
+  "productSlug": "armorshell-protective-case",
+  "daysAgo": 40
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 4,
+  "title": "A few minor issues but overall solid",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 67,
+  "productSlug": "armorshell-protective-case",
+  "daysAgo": 41
+ },
+ {
+  "userName": "Marc B.",
+  "rating": 4,
+  "title": "My new daily driver",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 75,
+  "productSlug": "armorshell-protective-case",
+  "daysAgo": 58
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 5,
+  "title": "Impressive build quality",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 5,
+  "productSlug": "flexarm-laptop-stand",
+  "daysAgo": 32
+ },
+ {
+  "userName": "Jean P.",
+  "rating": 4,
+  "title": "Great value for the price",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 76,
+  "productSlug": "flexarm-laptop-stand",
+  "daysAgo": 23
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Fast shipping, great packaging",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 34,
+  "productSlug": "flexarm-laptop-stand",
+  "daysAgo": 9
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 48,
+  "productSlug": "crystalview-4k-webcam",
+  "daysAgo": 23
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "My new daily driver",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 5,
+  "productSlug": "crystalview-4k-webcam",
+  "daysAgo": 5
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "Delivery was fast and the packaging was secure. The product itself matches the photos and description closely.",
+  "verifiedPurchase": true,
+  "helpfulCount": 72,
+  "productSlug": "crystalview-4k-webcam",
+  "daysAgo": 20
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 4,
+  "title": "Works exactly as described",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 10,
+  "productSlug": "orbitbuds-sport-earbuds",
+  "daysAgo": 15
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 5,
+  "title": "Works exactly as described",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 14,
+  "productSlug": "orbitbuds-sport-earbuds",
+  "daysAgo": 47
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "Would buy again",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": true,
+  "helpfulCount": 31,
+  "productSlug": "orbitbuds-sport-earbuds",
+  "daysAgo": 31
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "A few minor issues but overall solid",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 52,
+  "productSlug": "streamcast-portable-projector",
+  "daysAgo": 7
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 5,
+  "title": "Impressive build quality",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": false,
+  "helpfulCount": 23,
+  "productSlug": "streamcast-portable-projector",
+  "daysAgo": 29
+ },
+ {
+  "userName": "David T.",
+  "rating": 4,
+  "title": "Works exactly as described",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": false,
+  "helpfulCount": 70,
+  "productSlug": "streamcast-portable-projector",
+  "daysAgo": 42
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 4,
+  "title": "Fast shipping, great packaging",
+  "body": "Solid purchase overall. Customer support was responsive when I had a question about the warranty.",
+  "verifiedPurchase": false,
+  "helpfulCount": 41,
+  "productSlug": "streamcast-portable-projector",
+  "daysAgo": 59
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 4,
+  "title": "My new daily driver",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 15,
+  "productSlug": "tabletpro-12-slate",
+  "daysAgo": 59
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 5,
+  "title": "A few minor issues but overall solid",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 31,
+  "productSlug": "tabletpro-12-slate",
+  "daysAgo": 11
+ },
+ {
+  "userName": "Chris O.",
+  "rating": 5,
+  "title": "Great value for the price",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 29,
+  "productSlug": "tabletpro-12-slate",
+  "daysAgo": 53
+ },
+ {
+  "userName": "Grace M.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 10,
+  "productSlug": "tabletpro-12-slate",
+  "daysAgo": 49
+ },
+ {
+  "userName": "Linda F.",
+  "rating": 5,
+  "title": "Impressive build quality",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 57,
+  "productSlug": "echodot-smart-speaker-mini",
+  "daysAgo": 50
+ },
+ {
+  "userName": "Aline U.",
+  "rating": 4,
+  "title": "Exceeded my expectations",
+  "body": "I've been using this for a few weeks now and it has held up really well. Battery life is better than I expected and the build quality feels premium.",
+  "verifiedPurchase": true,
+  "helpfulCount": 40,
+  "productSlug": "echodot-smart-speaker-mini",
+  "daysAgo": 53
+ },
+ {
+  "userName": "Sarah K.",
+  "rating": 5,
+  "title": "Exceeded my expectations",
+  "body": "Setup was quick and the performance has been consistent. There are a couple of small quirks but nothing that affects daily use.",
+  "verifiedPurchase": true,
+  "helpfulCount": 68,
+  "productSlug": "echodot-smart-speaker-mini",
+  "daysAgo": 4
+ },
+ {
+  "userName": "Fatima A.",
+  "rating": 4,
+  "title": "Would buy again",
+  "body": "Compared to my old device this is a massive upgrade. Highly recommend if you're on the fence.",
+  "verifiedPurchase": true,
+  "helpfulCount": 59,
+  "productSlug": "echodot-smart-speaker-mini",
+  "daysAgo": 39
+ }
+]

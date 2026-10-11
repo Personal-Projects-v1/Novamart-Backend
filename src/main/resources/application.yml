@@ -26,6 +26,11 @@ app:
     refresh-token-expiration: 2592000000 # 30 days
   cors:
     allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:3000}
+  dev:
+    # Echo verification/reset tokens in API responses (no mail provider yet). Must stay false outside local dev.
+    expose-tokens: false
+  seed:
+    enabled: false
   security:
     password-reset-expiration: 3600000 # 1 hour
     email-verification-expiration: 86400000 # 24 hours
