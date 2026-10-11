@@ -18,3 +18,9 @@ app:
     secret: test-secret-key-for-testing-only-must-be-at-least-256-bits-long
     access-token-expiration: 60000 # 1 minute for testing
     refresh-token-expiration: 120000 # 2 minutes for testing
+  cors:
+    allowed-origins: http://localhost:3000
+  seed:
+    enabled: false
+  dev:
+    expose-tokens: true
