@@ -1,0 +1,72 @@
+spring:
+  application:
+    name: novamart
+  
+  datasource:
+    url: jdbc:postgresql://${DB_HOST:postgres}:${DB_PORT:5432}/${DB_NAME:novamart}
+    username: ${DB_USERNAME:novamart}
+    password: ${DB_PASSWORD:novamart123}
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 5
+      connection-timeout: 30000
+      idle-timeout: 600000
+      max-lifetime: 1800000
+  
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: false
+        jdbc:
+          time_zone: UTC
+  
+  flyway:
+    enabled: true
+    baseline-on-migrate: true
+    validate-on-migrate: true
+    locations: classpath:db/migration
+  
+  security:
+    jwt:
+      secret: ${JWT_SECRET:your-production-secret-key-change-this-in-production-must-be-very-long}
+      access-token-expiration: ${JWT_ACCESS_EXPIRATION:900000}     # 15 minutes
+      refresh-token-expiration: ${JWT_REFRESH_EXPIRATION:604800000} # 7 days
+
+server:
+  port: 8080
+  compression:
+    enabled: true
+    mime-types: application/json,application/xml,text/html,text/xml,text/plain
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: when-authorized
+
+logging:
+  level:
+    root: INFO
+    commerce.novamart: INFO
+    org.springframework.web: INFO
+    org.hibernate: WARN
+
+app:
+  jwt:
+    secret: ${JWT_SECRET:your-production-secret-key-change-this-in-production-must-be-very-long}
+    access-token-expiration: ${JWT_ACCESS_EXPIRATION:900000}     # 15 minutes
+    refresh-token-expiration: ${JWT_REFRESH_EXPIRATION:604800000} # 7 days
+  cors:
+    allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:3000,http://frontend:3000}
+  seed:
+    enabled: ${SEED_ENABLED:false}
+  dev:
+    expose-tokens: false
