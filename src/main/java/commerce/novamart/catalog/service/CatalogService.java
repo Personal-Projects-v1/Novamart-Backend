@@ -149,7 +149,7 @@ public class CatalogService {
         return Math.min(Math.max(size, 1), 100);
     }
 
-    static Sort sortFor(String sort) {
+    public static Sort sortFor(String sort) {
         if (sort == null) sort = "recommended";
         return switch (sort) {
             case "price-asc" -> Sort.by("price").ascending().and(Sort.by("id"));
