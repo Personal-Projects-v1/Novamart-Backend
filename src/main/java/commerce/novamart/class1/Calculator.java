@@ -18,6 +18,5 @@ public class Calculator {
         if (b == 0) {
             throw new ArithmeticException("Division by zero");
         }
-        return a / b;
-    }
+        return a / b;   }
 }
